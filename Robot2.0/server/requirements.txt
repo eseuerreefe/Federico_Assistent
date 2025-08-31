@@ -1,0 +1,9 @@
+fastapi==0.112.2
+uvicorn[standard]==0.30.6
+pydantic==2.9.0
+python-dotenv==1.0.1
+requests==2.32.3
+websockets==13.0
+aiofiles==24.1.0
+faster-whisper==1.0.3
+python-multipart==0.0.9
