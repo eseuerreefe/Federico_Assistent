@@ -1,0 +1,5 @@
+numpy
+requests
+sounddevice
+pydub
+faster-whisper
