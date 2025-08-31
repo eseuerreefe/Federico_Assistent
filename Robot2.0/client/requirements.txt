@@ -1,6 +1,0 @@
-requests==2.32.3
-websockets==13.0
-python-dotenv==1.0.1
-sounddevice==0.4.7
-scipy==1.13.1
-numpy>=1.26
